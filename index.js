@@ -1,4 +1,4 @@
-const Discord = require("https://github.com/SyndesisLLC/discord.js.git");
+const Discord = require("https://github.com/discordjs/discord.js.git");
 const client = new Discord.Client();
 
 client.on('ready', () => {
